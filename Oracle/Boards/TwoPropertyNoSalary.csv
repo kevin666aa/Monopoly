@@ -1,0 +1,7 @@
+Number of Spaces,3,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,0,USA,,,,,,,
+Property,0,0,New York,100,50,50,200,300,7500
+Property,1,0,L.A.,100,50,50,200,500,7500
