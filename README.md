@@ -3,8 +3,10 @@ A Monopoly game implemented using C++. Once made, the executable need three argv
 
 Descriptions: 
   Three pdfs
+  
 Sources:
   All the .cpp and .hpp files, a makefile
+  
 Inside Oracle folder:
   A BOARDS fold, a RULES folder and a RANDOMFILE folder.
   
